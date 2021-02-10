@@ -8,6 +8,6 @@
 ## Referenz-Stories
 [Feature](https://github.com/hitobito/docs/issues/1)
 
-[Tech Story](https://github.com/hitobito/docs/issues/3)
+[Tech Story](https://github.com/hitobito/docs/issues/2)
 
 [Bug](https://github.com/hitobito/docs/issues/3)
