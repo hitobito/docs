@@ -51,3 +51,21 @@ TECH: Flux Capacitor Gem updaten
 Aktuelle in Version 42.1, update auf 42.2.
 
 Dies behebt eine kritische Lücke im Zeitreisemodul
+
+### Bug
+
+#### Titel
+
+PEOPLE: Falscher Heimatplanet als Standard
+
+#### Aktuelles Verhalten
+
+Wird eine neue Person erfasst, wird standardmässig Mars als Heimatplanet ausgewählt.
+
+#### Gewünschtes Verhalten
+
+Beim Erfassen einer Person wird standardmässig Erde als Heimatplanet ausgewählt.
+
+#### Techspec
+
+Prüfen warum das Enum home_planet bei einem neuen Record nicht standardmässig 0 als Wert hat.
